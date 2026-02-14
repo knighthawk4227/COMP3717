@@ -29,3 +29,6 @@ replay_pid*
 # Idea Editor package
 .idea
 out/
+build/
+.gradle/
+local.properties
